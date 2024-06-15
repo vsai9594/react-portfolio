@@ -8,11 +8,10 @@ const introdata = {
     title: "I’m SaiVamsi",
     animated: {
         first: "Cloud Practitioner",
-        second: "DevSecops Expert",
+        second: "DevSecOps Expert",
         third: "Microservices Champion",
     },
     description: "Seasoned Cloud & DevOps Expert with experience in designing and implementing highly avaiable, cost efficient and reliable systems without comprimising on performance and security. ",
-    your_img_url: "https://github.com/vsai9594/public-detatils/blob/main/black_white.jpeg",
 };
 
 const dataabout = {
@@ -37,24 +36,31 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
+        name: "Cloud:- Azure",
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "Git:- GitLab, Azure Repos, GitHub",
     },
     {
-        name: "Javascript",
-        value: 80,
+        name: "Infrastructure as Code:- Terraform, Azure ARM Templates",
     },
     {
-        name: "React",
-        value: 60,
+        name: "GitOps:- FluxCD, ArgoCD",
     },
     {
-        name: "Jquery",
-        value: 85,
+        name: "Containerization:- Kubernetes, Docker, Docker Compose",
+    },
+    {
+        name: "Scripting:- Bash, Shell, Python",
+    },
+    {
+        name: "Documentation:- Atlassian Confluence, Azure Wiki, Gitlab Wiki",
+    },
+    {
+        name: "Issue Management:- Jira, Azure Boards, Gitlab Issues",
+    },
+    {
+        name: "Others:- Auth0, Kafka, Redis, Helm, MongoDB, npm, Sentry, SendGrid, Mailjet",
     },
 ];
 
